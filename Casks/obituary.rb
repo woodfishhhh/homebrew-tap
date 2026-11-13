@@ -14,7 +14,7 @@ cask "obituary" do
   end
 
   name "obituary"
-  desc "Give files a lifespan and restore them from a graveyard"
+  desc "Trash bin for AI agents: files get a lifespan and stay restorable"
   homepage "https://obituary.woodfish.site"
 
   livecheck do
